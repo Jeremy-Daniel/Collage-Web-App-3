@@ -1,0 +1,38 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color:bisque;
+    color: black;
+    width: 100%;
+    font-size: larger;
+border-top: black 2px solid;
+ text-align: center;
+}
+body{
+    background-color:antiquewhite;
+}
+h1{
+    font-family:Arial;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#camera{
+    border:1px solid black;
+    width: 500px;
+    height: 400px;
+}
+
+img{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 2px 6px 8px black;
+}
+.column{
+    display:inline;
+    padding:10px;
+}
+img:hover{
+    width:50%;
+}
